@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TdoaSimulator", "TdoaSimulator\TdoaSimulator.csproj", "{305A82F0-EB38-4488-9B69-B4ADE2AD4F46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tdoa Test", "Tdoa Test\Tdoa Test.csproj", "{95B00B5F-FBA9-4075-A29A-EFE3E2940B54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{305A82F0-EB38-4488-9B69-B4ADE2AD4F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{305A82F0-EB38-4488-9B69-B4ADE2AD4F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{305A82F0-EB38-4488-9B69-B4ADE2AD4F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{305A82F0-EB38-4488-9B69-B4ADE2AD4F46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B00B5F-FBA9-4075-A29A-EFE3E2940B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B00B5F-FBA9-4075-A29A-EFE3E2940B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B00B5F-FBA9-4075-A29A-EFE3E2940B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B00B5F-FBA9-4075-A29A-EFE3E2940B54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

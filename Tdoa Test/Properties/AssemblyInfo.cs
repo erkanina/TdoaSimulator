@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("TdoaSimulator")]
+[assembly: AssemblyTitle("Tdoa Test")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("TdoaSimulator")]
+[assembly: AssemblyProduct("Tdoa Test")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("305a82f0-eb38-4488-9b69-b4ade2ad4f46")]
+[assembly: Guid("95b00b5f-fba9-4075-a29a-efe3e2940b54")]
 
 // Version information for an assembly consists of the following four values:
 //
