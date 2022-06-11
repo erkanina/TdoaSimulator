@@ -25,7 +25,7 @@ In every one second test object move along x-direction
 
 x += 100;
 
-After reaching 2000, it resets it's position to initial position
+After reaching 2000, it resets the locations to initial position
 
 if (x > 2000) x = -1000;
 
