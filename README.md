@@ -25,5 +25,4 @@ if (x > 2000) x = -1000;
 By this code you can compare fed and calculated x,y,z
 
 For mathematical background please refer my stackoverflow mesage;
-
 https://math.stackexchange.com/a/2489798/495743
